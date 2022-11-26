@@ -1,6 +1,14 @@
 # AngularBlog
+![](https://github.com/Raffafe/ANGULAR-BLOG/blob/c95d5487479b48224d8a810d259ff582eb3cae9a/src/assets/img/home.jpg)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+
+
+Este projeto foi gerado com Angular CLI versão 14.1.2.
+
+## Tecnologias utilizadas:
+- HTML5
+- CSS3
+- Angular
 
 ## Development server
 
