@@ -3,7 +3,7 @@
   margin-left: 20px;
   margin-right: 20px;
   width: 400px;
-  height: 500px;
+  height: auto;
 
   display: flex;
   flex-direction: column;
@@ -20,9 +20,12 @@
 
 }
 .big-card__description > p > a{
-  color: gray;
+  color: rgb(234, 215, 215);
+
 }
 .big-card__photo > img{
+  height: auto;
   width: 100%;
   min-width: 400px;
+
 }

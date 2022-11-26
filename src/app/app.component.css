@@ -1,0 +1,14 @@
+header {
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+}
+hr{
+  margin-top: 15px;
+}
+footer {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  display: flex;
+  justify-content: center;
+}
